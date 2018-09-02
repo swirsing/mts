@@ -12,7 +12,7 @@ The generator is designed to produce self-similar traffic. A modulated Poisson P
 The exemplary models (current_model) can be altered by replacing them by new files which must have the same data structure.
 
 Usage:
-1. Unzip the archive into a folder an open in Matlab
+1. Unzip the archive into a folder an open in Matlab.
 2. Start the MTS_config file.
 3. Change Parameters as desired.
 
