@@ -21,4 +21,4 @@ Annotations:
 - It is derived "top-down" from mobile traffic measurements and can be enhanced by more detailed measurements 
 - The output is to be consideres as "raw traffic", i.e. no device (processing) limitations, rate limits or volume caps have been considered. 
 
-More on the theoretical backgound you can find under: LINK after publishing 
+More on the theoretical background you can find under: LINK after publishing 
