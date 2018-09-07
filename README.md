@@ -2,7 +2,7 @@
 The simulator creates bursty raw data traffic according to mobile usage characteristics. It produces... 
 - uplink and downlink data volumes for 
 - an arbitrary number of users (~ up to 2.500) 
-- in freely chosen time intervals (from several minutes to several days)
+- in freely chosen time intervals (from several minutes to one hour*)
 - at arbitrary interval sizes (1m to 1hour)
 - comes with exemplary models for weekday and weekend traffic patterns.
 - Patterns are derived from traffic measurements 
@@ -22,3 +22,5 @@ Annotations:
 - The output is to be consideres as "raw traffic", i.e. no device (processing) limitations, rate limits or volume caps have been considered. 
 
 More on the theoretical background you can find under: LINK after publishing 
+
+*depending on time interval of reference model (current_model)
